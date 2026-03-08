@@ -1,0 +1,23 @@
+# Base de données générée (régénérable via scripts)
+*.db
+
+# Fichier consolidé (32MB, régénérable)
+data/consolidation_digicheese.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# IDE
+.idea/
+.vscode/
+*.code-workspace
