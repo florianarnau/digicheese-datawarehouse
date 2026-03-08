@@ -1,0 +1,86 @@
+=== LOT 3 : Échantillon 5% des 100 meilleures (2011-2016, depts 22/49/53) ===
+
+Code       Ville                                  Σ Qté  Types   Moy/type  Timbrecde
+-------------------------------------------------------------------------------------
+73436      PORT BRILLET                               9      4       2.25      8.10 €
+55719      PORT BRILLET                              11      5       2.20      6.50 €
+72129      NOYANT VILLAGES                           19      5       3.80     10.60 €
+68214      ANDEL                                      9      4       2.25      8.50 €
+71927      MERDRIGNAC                                10      4       2.50      6.80 €
+
+
+=== LOT 3c : Répartition par ville ===
+Ville                                Nb cdes  Total qté
+----------------------------------------------------------
+BEAUFORT EN VALLÉE                         1        300
+GORRON                                     5         58
+MONTENAY                                   4         42
+LONGUE JUMELLES                            3         37
+ANGERS                                     2         32
+MEZANGERS                                  3         32
+SAINT PIERRE DES NIDS                      2         29
+PRE EN PAIL ST SAMSON                      3         29
+BLOU                                       3         29
+LE BOURGNEUF LA FORET                      2         28
+TRÉLAZÉ                                    2         22
+CRENNES SUR FRAUBÉE                        2         22
+LE MESNIL EN VALLÉE                        1         21
+ST CYR LE GRAVELAIS                        2         21
+LAVAL                                      2         21
+COURCITE                                   1         20
+LANMERIN                                   1         20
+SAINT DENIS DE GASTINES                    2         20
+PORT BRILLET                               2         20
+BEAUFORT EN ANJOU                          2         20
+LE BIGNON DU MAINE                         2         20
+NOYANT VILLAGES                            1         19
+ST GERMAIN LE GUILLAUME                    1         19
+LOIRE AUTHION                              2         18
+LANDIVY                                    2         18
+LE BURET                                   1         15
+JUVIGNÉ                                    1         15
+SAUMUR                                     1         15
+SAINT MARTIN DU LIMET                      1         13
+SAINTE GEMMES SUR LOIRE                    1         13
+PORDIC                                     1         12
+ST HILAIRE DU MAINE                        1         12
+DÉSERTINES                                 1         12
+SAINT MARTIN DU BOIS                       1         12
+QUELAINES SAINT GAULT                      1         12
+CHEMAZE                                    1         12
+LA MÉNITRÉ                                 1         12
+AVRILLE                                    1         12
+EVRON                                      1         11
+FROMENTIERES                               1         11
+LARCHAMP                                   1         11
+MAYENNE                                    1         11
+COSSE LE VIVIEN                            1         10
+ST PIERRE SUR ORTHE                        1         10
+SAINT RÉMY LA VARENNE                      1         10
+INGRANDES SUR LOIRE                        1         10
+BEAUPREAU EN MAUGES                        1         10
+CONTEST                                    1         10
+BEAUCOUZÉ                                  1         10
+LEVARÉ                                     1         10
+L'HUISSERIE                                1         10
+MERDRIGNAC                                 1         10
+CHEMAZÉ                                    1         10
+CHAILLAND                                  1          9
+LE PAS                                     1          9
+DURTAL                                     1          9
+LAMBALLE                                   1          9
+ANDEL                                      1          9
+JAVRON LES CHAPELLES                       1          9
+ST GEORGES SUR ERVE                        1          9
+ASTILLÉ                                    1          9
+LA MENITRE                                 1          9
+TORCE VIVIERS EN CHARNIE                   1          9
+PLOUFRAGAN                                 1          9
+BRECÉ                                      1          9
+CHATEAU GONTIER SUR MAYENNE                1          9
+SAINT GERMAIN LE FOUILLOUX                 1          9
+CHAMPGENETEUX                              1          9
+THUBOEUF                                   1          9
+FONTEVRAUD L'ABBAYE                        1          9
+ÉVRON                                      1          9
+LE RIBAY                                   1          9

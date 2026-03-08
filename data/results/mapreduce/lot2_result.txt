@@ -1,0 +1,105 @@
+=== LOT 2 : Top 100 commandes (2006-2010, depts 53/61/28) ===
+#     Code       Ville                                  Σ Qté  Timbrecde
+---------------------------------------------------------------------------
+1     25862      ARROU                                     42      9.85 €
+2     42997      SAINT GEORGES DES GROSEILLERS             33      6.40 €
+3     25861      ARROU                                     30      7.85 €
+4     24701      TOURNAI SUR DIVE                          25      5.10 €
+5     26620      BOUCÉ                                     20      5.80 €
+6     16235      ARROU                                     18      6.40 €
+7     22609      COMMUNE NOUVELLE D ARROU                  18      6.40 €
+8     36865      LE MERLERAULT                             18      5.80 €
+9     20375      SAINT GERMAIN DU CORBÉIS                  17      5.80 €
+10    45087      DOMFRONT EN POIRAIE                       16      7.80 €
+11    42676      LA GONFRIÈRE                              16      7.00 €
+12    47308      LA GONFRIÈRE                              16      6.50 €
+13    16234      ARROU                                     16      6.40 €
+14    16236      ARROU                                     16      6.00 €
+15    22146      VIMOUTIERS                                16      5.10 €
+16    46141      CERISY BELLE ÉTOILE                       15      7.80 €
+17    15348      SAINTE OPPORTUNE                          14      8.60 €
+18    42331      ATHIS VAL DE ROUVRE                       14      7.70 €
+19    41571      GOULET                                    14      5.80 €
+20    15369      SAI                                       13      7.15 €
+21    44514      RI                                        13      7.10 €
+22    48735      LA FERTÉ MACÉ                             13      6.50 €
+23    17351      SAINT MAURICE DU DÉSERT                   13      5.80 €
+24    46074      CERISY BELLE ÉTOILE                       12      7.10 €
+25    49259      LESBOIS                                   12      7.10 €
+26    45648      LA LANDE PATRY                            12      6.50 €
+27    26478      MAYENNE                                   12      6.40 €
+28    37017      SAINT PIERRE SUR ERVE                     12      6.40 €
+29    43715      ST GERMAIN DU CORBEIS                     12      6.40 €
+30    47806      SÉES                                      12      5.90 €
+31    43869      BAILLEUL                                  12      5.50 €
+32    34461      RONFEUGERAI                               12      5.20 €
+33    39237      LA FERRIÈRE AUX ETANGS                    11      7.70 €
+34    34304      COURBEVEILLE                              11      7.50 €
+35    34305      COURBEVEILLE                              11      7.50 €
+36    48720      ERNÉE                                     11      7.10 €
+37    48801      ALENCON                                   11      7.10 €
+38    45704      ST GERMAIN DU CORBEIS                     11      6.50 €
+39    47698      COLOMBIERS                                11      6.50 €
+40    48399      LE BOURGNEUF LA FORET                     11      6.50 €
+41    28924      SAINT PIERRE DES NIDS                     11      6.40 €
+42    36300      ATHIS VAL DE ROUVRE                       11      6.40 €
+43    43587      LONLAY L'ABBAYE                           11      6.40 €
+44    44344      SAINT GEORGES DES GROSEILLERS             11      6.40 €
+45    45147      AVRILLY                                   11      5.90 €
+46    43758      LA HAUTE CHAPELLE                         11      5.80 €
+47    41636      LA BAZOQUE                                11      5.50 €
+48    43918      BOISSY MAUGIS                             11      5.50 €
+49    29332      ECOUCHE LES VALLEES                       11      5.20 €
+50    37122      L'AIGLE                                   11      5.20 €
+51    45271      COLOMBIERS                                10      7.10 €
+52    45486      ARGENTAN                                  10      7.10 €
+53    48676      ATHIS VAL DE ROUVRE                       10      7.10 €
+54    35706      ATHIS VAL DE ROUVRE                       10      7.00 €
+55    38848      BOISSY LES PERCHE                         10      7.00 €
+56    40235      FLERS                                     10      7.00 €
+57    40828      GACÉ                                      10      7.00 €
+58    43165      MONTSECRET                                10      7.00 €
+59    43215      LES GENETTES                              10      7.00 €
+60    45708      TINCHEBRAY                                10      6.50 €
+61    46802      SAINT PIERRE D'ENTREMONT                  10      6.50 €
+62    49027      GACÉ                                      10      6.50 €
+63    30240      CRULAI                                    10      6.40 €
+64    32241      LONLAY L'ABBAYE                           10      6.40 €
+65    32671      ARGENTAN                                  10      6.40 €
+66    32672      LA BAZOQUE                                10      6.40 €
+67    33718      CEAUCÉ                                    10      6.40 €
+68    34348      LES GENETTES                              10      6.40 €
+69    36724      BROU                                      10      6.40 €
+70    36875      TRANS                                     10      6.40 €
+71    37300      LA FERTE EN OUCHE                         10      6.40 €
+72    38073      LAVAL                                     10      6.40 €
+73    41106      LANDIGOU                                  10      6.40 €
+74    43549      FLERS                                     10      6.40 €
+75    43774      COMMUNE NOUVELLE D ARROU                  10      6.40 €
+76    24555      ROUPERROUX                                10      6.00 €
+77    35616      NORMANDEL                                 10      6.00 €
+78    36874      NEAUPHE SUR DIVE                          10      6.00 €
+79    47128      LA COURBE                                 10      5.90 €
+80    34387      FLEURÉ                                    10      5.80 €
+81    34704      LA FERTE EN OUCHE                         10      5.80 €
+82    39756      MONTCHEVREL                               10      5.50 €
+83    39870      SAINT OUEN LE BRISOULT                    10      5.50 €
+84    25111      BALLOTS                                   10      5.20 €
+85    43216      LES GENETTES                              10      4.50 €
+86    34529      VILLIERS SOUS MORTAGNE                     9      8.60 €
+87    44222      NOGENT LE ROTROU                           9      7.00 €
+88    45029      SAINT GEORGES DES GROSEILLERS              9      6.50 €
+89    45727      TINCHEBRAY                                 9      6.50 €
+90    47242      LONLAY LE TESSON                           9      6.50 €
+91    47262      TORCE VIVIERS EN CHARNIE                   9      6.50 €
+92    47310      PRÉ EN PAIL                                9      6.50 €
+93    48719      LOUGÉ SUR MAIRE                            9      6.50 €
+94    49175      ALENCON                                    9      6.50 €
+95    23617      COULIMER                                   9      6.40 €
+96    24476      MONNAI                                     9      6.40 €
+97    25668      BOITRON                                    9      6.40 €
+98    25996      LE GENEST SAINT ISLE                       9      6.40 €
+99    27431      ATHIS VAL DE ROUVRE                        9      6.40 €
+100   29976      ASTILLÉ                                    9      6.40 €
+
+100 commandes sur 10900 trouvées.

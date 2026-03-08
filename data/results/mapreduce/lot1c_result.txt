@@ -1,0 +1,5 @@
+=== LOT 1c : Client avec le plus de frais de timbrecde ===
+Client        : Nicole CROTTÉ
+Nb commandes  : 76
+Somme qté     : 194
+Total timbre  : 437.80 €
